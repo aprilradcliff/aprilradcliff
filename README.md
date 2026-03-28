@@ -1,17 +1,18 @@
 👋 Hi, I'm April Radcliff
 
-Cybersecurity and IT professional focused on security architecture, incident analysis, and defensive security practices.
+Cybersecurity and IT professional focused on security architecture, risk analysis, and defensive security practices.
 
-My work emphasizes practical security concepts including threat modeling, access control design, incident response analysis, and data protection strategies. I maintain a portfolio of security-focused projects exploring real-world cybersecurity challenges across enterprise environments.
+🔐 CompTIA Security+ certified
+🎓 B.S. in Information Technology (Cybersecurity), summa cum laude
 
-Current focus areas include:
+My work emphasizes practical application of security principles, including threat modeling, access control design, incident response analysis, and data protection strategies. I maintain a portfolio of security-focused projects that explore real-world cybersecurity challenges across enterprise environments.
 
-• Security architecture and control design  
-• Threat detection and incident analysis  
-• Network and system security  
-• Python-based security tooling  
-• Log analysis and security monitoring
+Focus areas:
 
-I am currently expanding my technical security capabilities while preparing for the CompTIA Security+ certification.
+• Governance, Risk, and Compliance (GRC) frameworks and risk assessment
+• Security policy development and regulatory alignment (NIST, HIPAA)
+• Incident response planning and mitigation strategies
+• Data governance and access control implementation
+• Emerging cybersecurity trends and AI-related risk awareness
 
-📫 Contact: april.radcliff@gmail.com
+📫 april.radcliff@gmail.com
